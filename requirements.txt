@@ -1,0 +1,7 @@
+streamlit
+st-annotated-text
+geopandas
+plotly
+numpy
+pandas
+SQLAlchemy
