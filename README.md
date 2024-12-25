@@ -13,9 +13,7 @@ Here's the updated README file with sections added for maps and top analysis:
 6. [Code Structure](#code-structure)
 7. [Detailed Functionality](#detailed-functionality)
 8. [Contributing](#contributing)
-9. [License](#license)
-10. [Acknowledgements](#acknowledgements)
-11. [Contact](#contact)
+9. [Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -141,10 +139,6 @@ We welcome contributions to enhance the functionality and features of this appli
     git push origin feature-branch
     ```
 5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgements
 
